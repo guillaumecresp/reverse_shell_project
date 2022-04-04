@@ -7,3 +7,5 @@ You have to put the victim.py file to the victim pc and disable his firewall wit
 you have make modification to the ip adress and get the ip adress of the victim
 
 Enjoy !
+
+credits/clement.lagier@epitech.eu/guillaume.cresp@epitech.eu
